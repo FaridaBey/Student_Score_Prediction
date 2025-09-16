@@ -24,7 +24,6 @@ Key steps:
 ```
 Student_Score_Prediction.ipynb   # Main notebook with code and analysis
 README.md                        # Project documentation
-data/                            # (Optional) Folder for dataset if separated
 ```
 
 ---
@@ -54,14 +53,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Linear regression provides a baseline.  
 - Polynomial regression improves performance by capturing nonlinear relationships.  
 
----
 
-## 🔮 Future Work
-- Try advanced models like **Random Forests, Gradient Boosting, or Neural Networks**.
-- Perform **hyperparameter tuning** for better accuracy.
-- Deploy the model as a simple **web app** using Streamlit or Flask.
 
----
-
-## ✍️ Author
-Developed by **[Your Name]** as a machine learning project for predicting academic performance.
